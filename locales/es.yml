@@ -78,11 +78,11 @@ es:
         breadcrumb: "Eliminar"
         bulk_link: "Eliminar %{model_label_plural}"
       export:
-        title: "Exportar %{model_label_plural}"
+        title: "Exportar"
         menu: "Exportar"
         breadcrumb: "Exportar"
-        link: "Exportar %{model_label_plural}"
-        bulk_link: "Exportar %{model_label_plural}"
+        link: "Exportar"
+        bulk_link: "Exportar"
         done: "exportados"
       history_index:
         title: "Historial para %{model_label_plural}"
